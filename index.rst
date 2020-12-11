@@ -11,6 +11,7 @@ Sesam Master Data Hub
    Developer Guide <developer-guide>
    Best Practices <best-practices>
    Tools <tools>
+   Community <community>
    Behind the scenes <behind-the-scenes>
    Roadmap <roadmap>
    Changelog <changelog>
